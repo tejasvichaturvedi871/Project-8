@@ -8,3 +8,4 @@ if i % 2==0:
 newlist.append(i**3)
 print(newlist)
 cubes()
+![Screenshot_20241227-012824_Moto App Launcher](https://github.com/user-attachments/assets/5fa39018-c074-439d-a5be-b772e4d09d8c)
